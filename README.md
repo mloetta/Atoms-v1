@@ -8,7 +8,7 @@ Pannie is a versatile Discord bot designed to enhance your server experience. Wi
 - **Customizable Settings:** Tailor Pannie's behavior to your preferences with customizable settings.
 
 ## How to Use
-- **[Invite Pannie to Your Server](https://discord.com/oauth2/authorize?client_id=1215398905970303036&permissions=8&scope=bot)]**
+- **[Invite Pannie to Your Server](https://discord.com/oauth2/authorize?client_id=1215398905970303036&permissions=8&scope=bot)**
 - **Set Up Permissions:** Ensure that Pannie has the necessary permissions to function properly.
 - **Explore Commands:** Use the `!help` command to view a list of available commands and their usage.
 - **Configure Settings:** Customize Pannie's behavior and settings using the configuration command.
