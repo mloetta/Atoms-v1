@@ -24,6 +24,5 @@ Contribute: Interested in contributing to Pannie's development? Check out our Gi
 Feedback: We welcome feedback and suggestions for improving Pannie. Let us know your thoughts in our support server or GitHub repository.
 ## Stay Connected
 Stay updated on the latest news, updates, and announcements regarding Pannie:
-
-# Join our Discord server: Pannie Community
+Join our Discord server: Pannie Community https://discord.gg/xp7PqkjzzT
 # Thank you for choosing Pannie to enhance your Discord server experience!
