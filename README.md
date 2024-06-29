@@ -26,6 +26,6 @@ Atoms is actively developed and maintained by our team of Discord enthusiasts. M
 
 ## Stay Connected
 Stay updated on the latest news, updates, and announcements regarding Atoms:
-- **Join our Discord server:** [Atoms Community](https://discord.gg/xp7PqkjzzT).
+- **Join our Discord server:** [Ethereal Nexus](https://discord.gg/xp7PqkjzzT).
 
 Thank you for choosing Atoms to enhance your Discord server experience!
